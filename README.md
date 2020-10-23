@@ -43,3 +43,8 @@ php artisan migrate
 ```
 php artisan serve
 ```
+
+### Refrensi Project
+- http://journals.ums.ac.id/index.php/emitor/article/download/7566/4534
+- http://eprints.ums.ac.id/46089/1/naskah%20publikasi%20iwan.pdf
+- http://elibrary.nusamandiri.ac.id/homepage/autota
